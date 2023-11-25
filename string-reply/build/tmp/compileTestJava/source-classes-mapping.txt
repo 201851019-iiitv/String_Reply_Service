@@ -1,0 +1,6 @@
+com/beta/replyservice/ControllerTest.java
+ com.beta.replyservice.ControllerTest
+com/beta/replyservice/ServiceTest.java
+ com.beta.replyservice.ServiceTest
+com/beta/replyservice/RestServiceApplicationTest.java
+ com.beta.replyservice.RestServiceApplicationTest
